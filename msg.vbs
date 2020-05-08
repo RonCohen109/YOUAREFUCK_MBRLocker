@@ -1,0 +1,1 @@
+X=MsgBox("Your computer has been trashed!  Your MBR is trashed, but the repair won't do anything, because your Master File Table (MFT) has been destroyed. While we overwrite your Master File Table (MFT), you won't be able to open task manager, registry editor, CMD and you won't be able to log off.", 0+48, "You have fucked up! :D")
